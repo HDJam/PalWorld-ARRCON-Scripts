@@ -34,7 +34,6 @@ Currently, there are 4 variables.
 | $ip       | The server IP. Only change this if your PalWorld server is running on a separate computer/server |
 | $port     | The ARRCON port setup in the PalWorld server configuration. "RCONPort"                           |
 | $admin_pw | The admin password setup in the PalWorld server configuration. "AdminPassword"                   |
-|-----------|--------------------------------------------------------------------------------------------------|
 
 In each script:
 - Change the path to "C:\PalWorld\Scripts"
